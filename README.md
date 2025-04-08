@@ -73,7 +73,7 @@ To run this project on your local machine, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/vijaisuria/Fake-News-Detective.git
+   git clone https://github.com/pavankumar151/Fake-News-Detective.git
    ```
 
 2. Install the necessary dependencies:
